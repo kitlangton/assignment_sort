@@ -10,9 +10,9 @@ def merge_sort(array)
 end
 
 def merge(left, right)
-  puts "MERGE"
-  p left
-  p right
+  # puts "MERGE"
+  # p left
+  # p right
 
   merged_array = []
 
@@ -28,7 +28,7 @@ def merge(left, right)
     end
   end
 
-  p merged_array
+  # p merged_array
   merged_array
 end
 
