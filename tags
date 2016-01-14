@@ -9,3 +9,6 @@ insert	/Users/kitlangton/Viking/Unit5/assignment_sort/insertion_sort.rb	/^def in
 insertion_sort	/Users/kitlangton/Viking/Unit5/assignment_sort/insertion_sort.rb	/^def insertion_sort(array)$/;"	f
 merge	/Users/kitlangton/Viking/Unit5/assignment_sort/merge_sort.rb	/^def merge(left, right)$/;"	f
 merge_sort	/Users/kitlangton/Viking/Unit5/assignment_sort/merge_sort.rb	/^def merge_sort(array)$/;"	f
+partition	/Users/kitlangton/Viking/Unit5/assignment_sort/quick_sort.rb	/^def partition(array, low, high)$/;"	f
+quick_sort	/Users/kitlangton/Viking/Unit5/assignment_sort/quick_sort.rb	/^def quick_sort(array, p, r)$/;"	f
+sort_benchmark	/Users/kitlangton/Viking/Unit5/assignment_sort/benchmark.rb	/^def sort_benchmark$/;"	f
